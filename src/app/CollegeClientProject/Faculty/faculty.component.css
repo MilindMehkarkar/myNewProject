@@ -1,0 +1,52 @@
+.example-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #eee;
+  }
+  .box{
+    border:2px solid grey;
+    height:400px;
+    width:12.7in;;
+    align-items: center;
+    font-size: 20px;
+    margin-right: 0px
+
+  }
+  .body1{
+    border-bottom: 5px solid goldenrod;
+  }
+  .body:hover{
+    border-bottom: 5px solid goldenrod;
+    line-height: 5px;
+
+  }
+  .body{
+    border-bottom: 5px solid grey;
+  }
+  
+  .padding{
+    padding-right: 80px;
+    padding-left: 5px;
+    padding-bottom: 500px;
+    padding-bottom: 851px;
+  }
+  .underline{
+    border-bottom: 5px solid goldenrod;
+    width: 265px;
+    margin-top: -4.9in;
+
+    
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column1{
+  padding-right: 50px;
+  padding-left: 10px;
+}

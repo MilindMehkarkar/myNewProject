@@ -1,0 +1,19 @@
+.padding{
+    padding-right:100px;
+    padding-bottom: 105px;
+}
+.underline{
+    border-bottom: 3px solid goldenrod;
+
+}
+.underline1{
+    border-bottom: 3px solid grey;
+}
+.underline2{
+    border-bottom: 3px solid goldenrod;
+    padding-top: -0.9in;
+    
+}
+.padding1{
+    padding-right: 50px;
+}

@@ -1,0 +1,93 @@
+
+.header{
+    margin: 15px 0;
+
+}
+
+.underline {
+    border-bottom: 1px solid black;
+    width: 2in;
+}
+
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1in;
+    
+}
+ 
+.bordertop{
+    border-top: solid 10px goldenrod; 
+    
+} 
+.bordertopwhite{
+    border-top: solid 10px white; 
+} 
+.padding{
+    background-color: black;
+    color:white;
+    border-bottom: 3px solid goldenrod;
+    padding-left:25px;
+    padding-right:25px;
+    
+   
+ }
+ .padding:hover{
+    background-color:goldenrod;
+    color:black;
+    border-bottom: 3px solid black;
+
+ }
+.padding1{
+    background-color: white;
+    color:black;
+    padding-left:329px;
+    padding-right:329px;
+
+
+
+}
+.padding2{
+    background-color:black;
+    color:white;
+    border-bottom:3px solid goldenrod;
+}
+.padding2:hover{
+    background-color: goldenrod;
+    color:black;
+    border-bottom:3px solid black;
+}
+.padding3{
+    background-color:black;
+    color:white;
+    border-bottom:3px solid goldenrod;
+    padding-left:13.1px;
+    padding-right:13.1px;
+}
+.padding3:hover{
+    background-color: goldenrod;
+    color: black;
+    border-bottom: 3px solid black;
+}
+.toppadding{
+    border-top:5px solid goldenrod;
+    /* border-top:5px solid whitesmoke; */
+}
+.toppadding1{
+    border-top:5px solid white;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 100px;
+}
+.logo{
+    padding-left:120px;
+    padding-right:120px;
+    
+}
+
+

@@ -1,0 +1,41 @@
+p {
+    margin: 0 0 0px;
+}
+.border-top border-bottom{
+    margin: 0 0 0px;
+}
+.underline{
+    border-bottom: 3px solid #dcab1f;
+    padding-top:5px
+}
+.underline5{
+    border-bottom:3px solid #979590
+}
+.column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 182px;
+}
+.underline7{
+    border-bottom: 3px solid goldenrod;
+
+}
+.underline2{
+    border-bottom: 3px solid goldenrod;
+    padding-top: 2.5in;
+
+}
+.underline1{
+    border-bottom: 3px solid grey;
+
+}
+.padding{
+    padding-right:100px;
+}
+.underline6{
+    border-bottom:10px solid goldenrod;
+    width: 100%;
+}
+
+

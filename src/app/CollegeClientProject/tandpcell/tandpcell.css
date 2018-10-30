@@ -1,0 +1,81 @@
+.padding{
+    padding-right:100px;
+    padding-top: 9px;
+    padding-bottom: 100px;
+}
+.padding1{
+    padding-right: 12.1in;
+    padding-bottom:96px;
+}
+.underline{
+    border-bottom: 3px solid goldenrod;
+}
+.underline:hover{
+    border-bottom: 3px solid red;
+
+}
+.underline1{
+    border-bottom: 3px solid goldenrod;
+    
+}
+.column {
+        float: left;
+        width: 25%;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+    }
+    
+ul li{
+    display:inline;
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    
+ 
+    
+}
+.padding2{
+    padding-right: 8.1in;
+    /* padding-bottom:0.9in;  */
+    padding-top: 64px;
+    margin-top: -210px;
+}
+
+.underline2{
+    border-bottom: 3px solid goldenrod;
+
+}
+.underline2:hover{
+    border-bottom: 3px solid red;
+
+}
+.table{
+    width:400px;
+    border:1px solid black;
+    height: 100px;
+}
+.table1{
+    width:400px;
+    border:1px solid black;
+    height: 100px;
+}
+.card{
+    margin-left: 382px;
+    height: 1.4in;
+}
+.mat-card{
+    margin-top: -235px;
+    margin-left: 385px;
+}
+.card1{
+    margin-left: 385px;
+    height: 1.4in;
+    margin-top: 0px;
+}
+.column1{
+    margin-top: -10px;
+}
+.container-fluid{
+    padding-right: 0px;
+}
+

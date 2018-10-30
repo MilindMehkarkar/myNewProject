@@ -1,0 +1,58 @@
+.body1{
+    border-bottom: 5px solid goldenrod;
+text-underline-position: below;
+}
+
+.body{
+    border-bottom: 5px solid grey;
+}
+.body1:hover{
+    border-bottom: 5px solid goldenrod;
+    line-height: 5px;
+}
+.body:hover{
+    border-bottom: 5px solid goldenrod;
+}
+.padding{
+    padding-right: 80px;
+    padding-bottom: 5px;
+
+}
+.box{
+    border: 2px solid grey;
+    height: 335px;
+    width: 11in;
+    align-items: center;
+}
+.underline{
+    border-bottom: 5px solid goldenrod;
+    width: 200px;
+    padding-bottom: 2px;
+}
+
+.box1{
+    border: 1px solid grey;
+    height: 400px;
+    width: 5in;
+    align-items: center;
+}
+.box2{
+    border: 1px solid grey;
+    height: 180px;
+    width: 5in;
+    align-items: center;
+    padding-left: 4in;
+}
+
+.box3{
+    border: 1px solid grey;
+    height: 1in;
+    width: 4in;
+    align-items: center;
+}
+.box4{
+    border: 1px solid grey;
+    height: 1in;
+    width: 4in;
+    align-items: center;
+}

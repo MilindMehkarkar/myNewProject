@@ -1,0 +1,38 @@
+.body1{
+    border-bottom: 5px solid goldenrod;
+text-underline-position: below;
+}
+
+.body{
+    border-bottom: 5px solid grey;
+}
+.body1:hover{
+    border-bottom: 5px solid goldenrod;
+}
+.body:hover{
+    border-bottom: 5px solid goldenrod;
+}
+.padding{
+    padding-right: 30px;
+    padding-bottom: 5px;
+
+}
+.box{
+    border: 2px solid grey;
+    height: 300px;
+    width: 10in;
+    align-items: center;
+}
+.underline{
+    border-bottom: 5px solid goldenrod;
+    width: 300px;
+    padding-bottom: 0px;  
+    margin-top: 88px;
+  
+}
+.snehal{
+    padding-left: 1in;
+}
+.mat-list{
+    margin-top: -70px;
+}
